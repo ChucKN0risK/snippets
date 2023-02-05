@@ -1,0 +1,1 @@
+npx @squoosh/cli --avif '{"maxQuantizer":23,"minQuantizer":23,"maxQuantizerAlpha":23,"minQuantizerAlpha":23,"subsample":1,"tileColsLog2":0,"tileRowsLog2":0,"speed":8}' --webp '{}' --mozjpeg '{}'  --

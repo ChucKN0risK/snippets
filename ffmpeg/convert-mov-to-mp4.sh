@@ -1,0 +1,1 @@
+ffmpeg -i my-video.mov -vcodec h264 -acodec mp3 my-video.mp4

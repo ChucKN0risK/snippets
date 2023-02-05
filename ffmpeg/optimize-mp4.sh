@@ -1,0 +1,1 @@
+ffmpeg -loglevel error -i specify-store-light.mp4  -vcodec libx264 -crf 24 specify-store-light-optimized.mp4
